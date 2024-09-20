@@ -46,11 +46,12 @@
 
 
 
+#SE FODA ME ESTRESSEI
+# convidados = ('Thayná', 'Thiago', 'Gabriel', 'Lorrany', 'Larice')
 
-convidados = ('Thayná', 'Thiago', 'Gabriel', 'Lorrany', 'Larice')
+# confirmados = ['Gabriel', 'Lorrany']
 
-confirmados = ['Gabriel', 'Lorrany']
+# for convidado in convidados:
+#     if convidado is not confirmados:
+#         print(f"{convidado} não foi confirmado!")
 
-for convidado in convidados:
-    if convidado is not confirmados:
-        print(f"{convidado} não foi confirmado!")
