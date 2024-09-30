@@ -12,11 +12,11 @@ class Pessoa:
 
 
 pessoa1 = Pessoa("Thayná", 18, "Feminino")
-print(pessoa1.cumprimentar())   
-print(f"Idade: {pessoa1.idade}")  
+# print(pessoa1.cumprimentar())   
+# print(f"Idade: {pessoa1.idade}")  
 
 pessoa1.aniversario()
-print(f"Idade nova: {pessoa1.idade}")
+# print(f"Idade nova: {pessoa1.idade}")
 
 
 
@@ -35,5 +35,5 @@ class Gato(Animal):
 jully = Cachorro("jully")
 gata = Gato("gata")
 
-print(f"{jully.nome} faz: {jully.fazer_barulho()}")
-print(f"{gata.nome} faz: {gata.fazer_barulho()}")
+# print(f"{jully.nome} faz: {jully.fazer_barulho()}")
+# print(f"{gata.nome} faz: {gata.fazer_barulho()}")
